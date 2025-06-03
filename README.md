@@ -50,5 +50,4 @@ A full-featured Spotify Clone built with the **MERN stack**, enhanced with **rea
 
 ---
 
-## 📁 Folder Structure
 
