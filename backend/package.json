@@ -13,6 +13,9 @@
   "type": "module",
   "author": "",
   "license": "ISC",
+  "engines": {
+  "node": "20.x"
+}
   "dependencies": {
     "@clerk/express": "^1.4.15",
     "cloudinary": "^2.6.1",
