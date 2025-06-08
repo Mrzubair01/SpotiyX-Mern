@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-  "node": "20.x"
+  "node": "20.17.0"
 }
   "dependencies": {
     "@clerk/express": "^1.4.15",
